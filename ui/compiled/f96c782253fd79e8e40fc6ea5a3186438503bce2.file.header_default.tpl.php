@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.13, created on 2020-10-12 22:02:00
+<?php /* Smarty version Smarty-3.1.13, created on 2020-10-14 11:34:11
          compiled from "ui\theme\softhash\sections\header_default.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:34225797fca63a56a1-05074978%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'f96c782253fd79e8e40fc6ea5a3186438503bce2' => 
     array (
       0 => 'ui\\theme\\softhash\\sections\\header_default.tpl',
-      1 => 1601324868,
+      1 => 1602688371,
       2 => 'file',
     ),
   ),

@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.13, created on 2020-10-12 22:02:00
+<?php /* Smarty version Smarty-3.1.13, created on 2020-10-14 11:34:11
          compiled from "ui\theme\softhash\dashboard-alt.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:213575797fce90f6d02-01460114%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'fcffa869ccfa2ecdede135d798d319b0155198cf' => 
     array (
       0 => 'ui\\theme\\softhash\\dashboard-alt.tpl',
-      1 => 1602556990,
+      1 => 1602688371,
       2 => 'file',
     ),
   ),

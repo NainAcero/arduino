@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.13, created on 2020-10-12 22:02:14
+<?php /* Smarty version Smarty-3.1.13, created on 2020-10-14 11:34:32
          compiled from "ui\theme\softhash\list-invoices.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:1823057980109b1ea71-40016386%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'e0be0b18c1caf80ea25c17fb0a59849377b67c05' => 
     array (
       0 => 'ui\\theme\\softhash\\list-invoices.tpl',
-      1 => 1600641620,
+      1 => 1602688371,
       2 => 'file',
     ),
   ),

@@ -589,7 +589,7 @@ function ib_money_format($amount,$config){
         $retval = number_format($amount,$dec_digit,$dec_point,$thousands_sep).$currency_code;
     }
     else{
-        $retval = $currency_code.' '.number_format($amount,$currency_decimal_digits,$dec_point,$thousands_sep);
+        $retval = $currency_code.' '.number_format($amount,intval($currency_decimal_digits),$dec_point,$thousands_sep);
     }
 
 
